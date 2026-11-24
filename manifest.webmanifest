@@ -1,0 +1,17 @@
+{
+  "name": "صلِّ على النبي ﷺ",
+  "short_name": "صلِّ على النبي",
+  "description": "صلِّ على النبي ﷺ — مساحة إسلامية للأذكار والتسبيح والقرآن ومواقيت الصلاة.",
+  "start_url": "/salli-ala-nabi4/",
+  "scope": "/salli-ala-nabi4/",
+  "display": "standalone",
+  "background_color": "#030705",
+  "theme_color": "#040806",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+  ]
+}
